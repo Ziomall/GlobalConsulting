@@ -6,3 +6,9 @@
   margin-top: 10px;
   margin-left: 475px;
 }
+
+.button {
+  display: flex;
+  gap: 40px;
+  margin-bottom: auto;
+}
