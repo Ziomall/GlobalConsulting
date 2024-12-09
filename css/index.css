@@ -12,3 +12,20 @@
   gap: 40px;
   margin-bottom: auto;
 }
+
+.button_ckick {
+  border-radius: 35%;
+  height: 50px;
+  background-color: gray;
+}
+
+.button_ckick:hover {
+  animation: pulse 2s infinite;
+  transition: 0.3s;
+  color: #151d4b;
+}
+
+.button_ckick:active {
+  background-color: #151d4b;
+  color: gold;
+}
